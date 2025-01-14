@@ -87,7 +87,7 @@ Look at the [wiki](https://github.com/OpenMarch/OpenMarch/wiki) and [Onboarding 
 
 ## OpenMarch for users and drill designers
 
-[**Install 0.0.3**](https://github.com/OpenMarch/OpenMarch/releases/tag/v0.0.3)
+[**Install the Latest Version**](https://openmarch.com/download/)
 
 > Note that there are bugs and this code is not production-ready.
 > Use at your own risk and have fun!
